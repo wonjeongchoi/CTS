@@ -1,6 +1,5 @@
 # Consistency-Guided Temperature Scaling (CTS)
-Official repository of our work on out-of-domain(OOD) calibration with **consistency-guided temperature scaling (CTS)**. \
-Our paper, a collaborative effort between KAIST and Purdue University, will be published in **AAAI 2024** soon. \
+Official repository of our work on out-of-domain(OOD) calibration with **consistency-guided temperature scaling (CTS)**. Our paper, a collaborative effort between KAIST and Purdue University, will be published in **AAAI 2024** soon. \
 This repository includes a quick summary of our method and a code implementation.
 
 - **Title**: Consistency-Guided Temperature Scaling Using Style and Content Information for Out-of-Domain Calibration
